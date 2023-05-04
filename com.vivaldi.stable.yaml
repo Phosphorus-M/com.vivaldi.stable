@@ -85,7 +85,7 @@ modules:
     sources:
       - type: extra-data
         # From https://repo.vivaldi.com/archive/deb/pool/main/
-        url: https://repo.vivaldi.com/archive/deb/pool/main/vivaldi-stable_5.6.2867.58-1_amd64.deb
+        url: https://repo.vivaldi.com/archive/deb/pool/main/vivaldi-stable_6.0.2979.18-1_amd64.deb
         sha256: 7911d068aced7faea8f45a023524725d2e47b7a779d464e294d3b90f122d502c
         filename: vivaldi-stable.deb
         x-checker-data:
